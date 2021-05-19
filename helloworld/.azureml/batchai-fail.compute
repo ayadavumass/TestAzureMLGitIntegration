@@ -1,0 +1,5 @@
+clusterName: newtestbatchaicluster
+resourceGroup: execution-test-eastus
+subscriptionId: ad203158-bc5d-4e72-b764-2607833a71dc
+type: batchai
+workspaceName: testbatchaiworkspaceeuap
