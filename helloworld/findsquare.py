@@ -7,7 +7,9 @@ import sys
 import argparse
 import time
 # from azureml.core.run import Run
+from import_azureml import test_function
 
+test_function()
 print("Driver arguments = " + repr(sys.argv))
 
 # This should succeed, because the docs folder in the project is ignored.
